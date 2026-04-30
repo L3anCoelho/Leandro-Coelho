@@ -1,60 +1,9 @@
-# 👋 Olá, eu sou o Leandro Marques Coelho
-
-Desenvolvedor em início de carreira focado em front-end e criação de interfaces modernas.
-
-Criei o projeto **Coelho Viltrumita**, onde desenvolvo páginas e ajudo pessoas a tirarem ideias do papel.  
-Hoje meu foco é ajudar pequenos negócios e criadores a terem uma presença digital simples e profissional.
-
-🌍 Brasil  
-✉️ Contato: [leandro.windech1@gmail.com](mailto:leandro.windech1@gmail.com)
-
----
-
-## 🚀 Tecnologias
+Olá! ==================================================================== ===================================================================== Meu nome é Leandro Marques Coelho, tenho 21 anos e sou desenvolvedor em início de carreira, atualmente estudando e me aprofundando na área de tecnologia através de cursos e da faculdade. Criei o projeto Coelho Viltrumita como uma forma de reunir aquilo que mais gosto de fazer: desenvolver páginas, criar conteúdo visual e ajudar pessoas a tirarem ideias do papel. Hoje meu foco é ajudar pequenos negócios, criadores de conteúdo e profissionais que precisam de uma presença digital simples e profissional. Nas horas livres costumo tocar guitarra, jogar jogos e treinar na academia. Também sou fã do universo de Invencível. * 🌍 Moro no Brasil * ✉️ Você pode entrar em contato comigo em [leandro.windech1@gmail.com](mailto:leandro.windech1@gmail.com) * 🧠 Atualmente estou aprendendo ja
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML"/>
-</a>
-
-<a href="https://www.w3.org/TR/CSS/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"/>
-</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a> <a <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a> <a <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a> <a href="https://www.adobe.com/uk/products/photoshop.<a>
 </p>
 
----
+### Redes Sociais
 
-## 📚 Atualmente estudando
-- Front-end avançado
-- UI/UX
-- Automação com Python
-
----
-
-## 🌐 Redes
-
-<p align="left">
-<a href="https://www.github.com/L3anCoelho" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/>
-</a>
-</p>
+<p align="left"> <a href="https://www.github.com/L3anCoelho" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" altura="32" alt="GitHub" title="GitHub" /> </picture> </a> </p>
